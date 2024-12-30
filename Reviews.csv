@@ -1,0 +1,15 @@
+Review_ID,Customer_ID,Product_ID,Date,Ranking,Review_Text
+1,1,1,2023-01-22,4,"Great quality, very satisfied with the product."
+2,2,2,2023-02-17,5,"Excellent product, exactly what I needed!"
+3,2,3,2023-04-27,2,"Not as good as I expected, has some issues."
+4,3,5,2023-03-12,3,"Okay product, nothing special."
+5,4,10,2023-05-30,5,Amazing product! Highly recommend.
+6,5,11,2023-06-24,1,"Poor quality, very disappointed."
+7,5,12,2023-06-24,5,"Excellent, exceeded expectations."
+8,10,17,2023-11-10,2,"Average quality, not worth the price."
+9,13,20,2023-02-01,4,Sturdy and well-made.
+10,13,21,2023-02-01,5,"Perfect product, I love it!"
+11,17,23,2023-03-18,3,"Not bad, but could be better."
+12,18,26,2023-04-22,4,"Good value for money, pleased with my purchase."
+13,22,27,2023-05-26,1,"Terrible product, would not recommend."
+14,22,28,2023-08-01,4,"Better than expected, quite happy with it."

@@ -1,0 +1,31 @@
+Product_ID,Short_Name,Textual_Descr,Brand,Weight,Unit_Price,Warranty,Quantity,Availability,Height,Width,Depth
+1,Leather Jacket,A premium leather jacket,BrandA,1.5,120.0,2.0,50,In Stock,70.0,55.0,5.0
+2,Bluetooth Speaker,High-quality Bluetooth speaker,BrandB,0.5,45.0,1.5,100,In Stock,10.0,10.0,8.0
+3,Office Chair,Ergonomic office chair,BrandC,15.0,150.0,1.0,30,In Stock,110.0,60.0,60.0
+4,Kitchen Mixer,Electric kitchen mixer,BrandD,3.0,85.0,1.5,40,In Stock,35.0,25.0,20.0
+5,Wooden Toy Set,Educational wooden toy set,BrandE,1.2,30.0,0.0,75,In Stock,25.0,20.0,20.0
+6,Novel Book,Engaging fiction novel,BrandF,0.4,10.0,0.0,200,In Stock,20.0,13.0,2.0
+7,Electric Drill,Compact electric drill,BrandG,2.0,70.0,2.0,60,In Stock,20.0,10.0,8.0
+8,Garden Shovel,Durable garden shovel,BrandH,1.8,25.0,1.0,150,In Stock,90.0,15.0,5.0
+9,Basketball,Outdoor basketball,BrandI,0.6,18.0,1.0,100,In Stock,25.0,25.0,25.0
+10,Silver Necklace,Elegant silver necklace,BrandJ,0.05,55.0,1.0,200,In Stock,5.0,5.0,1.0
+11,Running Shorts,Lightweight running shorts,BrandA,0.2,20.0,1.0,120,In Stock,35.0,30.0,1.0
+12,Smartphone,Latest smartphone model,BrandB,0.3,500.0,1.5,80,In Stock,15.0,7.0,0.7
+13,Dining Table,Modern wooden dining table,BrandC,40.0,300.0,2.0,15,In Stock,75.0,120.0,80.0
+14,Blender,Compact kitchen blender,BrandD,2.5,40.0,1.0,90,In Stock,30.0,15.0,15.0
+15,Stuffed Animal,Soft plush toy,BrandE,0.4,15.0,0.0,250,In Stock,25.0,15.0,10.0
+16,Cookbook,Comprehensive cookbook,BrandF,0.7,12.0,0.0,120,In Stock,25.0,18.0,3.0
+17,Cordless Drill,High-power cordless drill,BrandG,1.9,90.0,2.0,55,In Stock,22.0,10.0,8.0
+18,Garden Rake,Adjustable garden rake,BrandH,1.7,18.0,1.0,110,In Stock,100.0,30.0,10.0
+19,Tennis Racket,Professional tennis racket,BrandI,0.4,60.0,1.5,85,In Stock,70.0,30.0,5.0
+20,Gold Bracelet,Delicate gold bracelet,BrandJ,0.02,75.0,2.0,150,In Stock,1.0,6.0,0.5
+21,Winter Coat,Warm winter coat,BrandA,2.0,140.0,2.0,60,In Stock,90.0,65.0,10.0
+22,Laptop,High-performance laptop,BrandB,1.5,850.0,1.5,45,In Stock,25.0,35.0,3.0
+23,Bookshelf,Stylish wooden bookshelf,BrandC,20.0,200.0,1.0,25,In Stock,180.0,80.0,30.0
+24,Toaster,Four-slice toaster,BrandD,1.2,25.0,1.0,70,In Stock,18.0,25.0,18.0
+25,Puzzle Set,Challenging puzzle set,BrandE,0.3,20.0,0.0,300,In Stock,15.0,15.0,5.0
+26,Science Book,In-depth science textbook,BrandF,0.9,25.0,0.0,85,In Stock,28.0,20.0,4.0
+27,Hammer,Heavy-duty hammer,BrandG,0.7,15.0,2.0,130,In Stock,35.0,8.0,3.0
+28,Watering Can,Large watering can,BrandH,1.1,12.0,1.0,140,In Stock,50.0,25.0,20.0
+29,Football,Professional-grade football,BrandI,0.4,22.0,1.0,90,In Stock,25.0,25.0,25.0
+30,Pearl Earrings,Elegant pearl earrings,BrandJ,0.01,100.0,2.0,160,In Stock,2.0,2.0,1.0

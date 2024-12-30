@@ -1,0 +1,34 @@
+Payment_ID,Customer_ID,Payment_Type
+1,1,Card
+2,2,Card
+3,3,Card
+4,4,Card
+5,5,Gift Card
+6,6,Card
+7,7,Card
+8,8,Gift Card
+9,9,Card
+10,10,Card
+11,11,Card
+12,12,Card
+13,13,Gift Card
+14,14,Card
+15,15,Card
+16,16,Card
+17,17,Gift Card
+18,18,Card
+19,19,Card
+20,20,Card
+21,21,Card
+22,22,Gift Card
+23,23,Card
+24,24,Card
+25,25,Card
+26,26,Card
+27,27,Gift Card
+28,28,Card
+29,2,Card
+30,3,Card
+31,4,Card
+32,6,Card
+33,10,Card
